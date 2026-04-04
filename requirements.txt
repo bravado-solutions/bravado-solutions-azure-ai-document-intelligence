@@ -1,0 +1,6 @@
+azure-functions
+azure-ai-formrecognizer==3.3.0
+azure-storage-queue
+python-dotenv
+azure-core
+pyodbc
